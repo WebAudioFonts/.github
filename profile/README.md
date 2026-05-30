@@ -115,7 +115,7 @@ const player = new MidiAudioPlayer({
 
 ## Preset CDN
 
-The default preset endpoint (`https://webaudiofonts.github.io/presets/`) hosts **3,000+ free instrument presets** derived from multiple open-source SoundFont banks, including FluidR3 GM, Aspirin, Musyng Kite, and more.
+The default preset endpoint (`https://webaudiofonts.com/presets/`) hosts **3,000+ free instrument presets** derived from multiple open-source SoundFont banks, including FluidR3 GM, Aspirin, Musyng Kite, and more.
 
 Presets are automatically cached in IndexedDB by `midi-audio-player`, so they are only downloaded once per browser session.
 
