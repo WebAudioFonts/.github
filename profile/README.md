@@ -2,6 +2,8 @@
 
 **A complete open-source stack for MIDI audio playback in the browser.**
 
+**[See full feature demo here](https://webaudiofonts.com/demo/)**
+
 WebAudioFonts is a collection of three focused projects that work together to bring high-quality, instrument-rich MIDI playback to any web application — with no plugins, no server-side audio processing, and no heavy runtime dependencies.
 
 ---
