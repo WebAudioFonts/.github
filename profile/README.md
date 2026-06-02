@@ -3,7 +3,7 @@
 **A complete open-source stack for MIDI audio playback in the browser.** \
 *A real alternative to surikov messy package.*
 
-**[See full feature demo here](https://webaudiofonts.com/demo/)** 
+**[See full feature demo here](https://webaudiofonts.com/demo/)** /
 **[Explore the full instrument library and listen before you use](https://webaudiofonts.com/catalog/)**
 
 WebAudioFonts is a collection of three focused projects that work together to bring high-quality, instrument-rich MIDI playback to any web application — with no plugins, no server-side audio processing, and no heavy runtime dependencies.
